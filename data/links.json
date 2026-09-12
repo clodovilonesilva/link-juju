@@ -2,19 +2,19 @@
   {
     "id": "link-1789158791993",
     "type": "card-photo",
-    "title": "Grupo",
-    "subtitle": "Descrição do seu botão",
-    "url": "https://exemplo.com",
-    "image": "/uploads/card-recortado-1789179060372-1789179060553.webp",
+    "title": "Canal Telegram VIP",
+    "subtitle": "😈🔥 Vem participar do meu grupinho...",
+    "url": "https://t.me/jujuaranibot",
+    "image": "/uploads/card-recortado-1789188650487-1789188650519.webp",
     "imagePosition": "50% 50%",
     "imageFit": "cover",
     "badge": "Em alta",
-    "badgeColor": "#f5006e",
+    "badgeColor": "rose",
     "iconName": "ExternalLink",
     "category": "custom",
     "gridSpan": "full",
     "active": true,
     "hasBlur": true,
-    "blurText": ""
+    "blurText": "Conteúdo adulto"
   }
 ]

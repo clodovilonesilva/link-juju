@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "soc-1789188292460",
+    "platform": "telegram",
+    "title": "Telegram",
+    "url": "https://t.me/jujuaranibot",
+    "icon": "",
+    "active": true
+  },
+  {
+    "id": "soc-1789188288647",
+    "platform": "instagram",
+    "title": "Instagram",
+    "url": "https://instagram.com/juju_arani",
+    "icon": "",
+    "active": true
+  },
+  {
+    "id": "soc-1789188289942",
+    "platform": "twitter",
+    "title": "X (Twitter)",
+    "url": "https://x.com/juju_arani",
+    "icon": "",
+    "active": true
+  },
+  {
+    "id": "soc-1789188294030",
+    "platform": "tiktok",
+    "title": "TikTok",
+    "url": "https://tiktok.com/@ju_arani",
+    "icon": "",
+    "active": true
+  }
+]
